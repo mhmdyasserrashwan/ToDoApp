@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:todoapp/core/utilis/app_assets.dart';
-import 'package:todoapp/core/utilis/app_colors.dart';
+//import 'package:todoapp/core/utilis/app_assets.dart';
+//import 'package:todoapp/core/utilis/app_colors.dart';
 import 'package:todoapp/core/utilis/app_strings.dart';
 import 'package:todoapp/features/auth/presentation/screens/splashscreen/splashscreen.dart';
 
