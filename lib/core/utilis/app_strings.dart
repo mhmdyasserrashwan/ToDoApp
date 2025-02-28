@@ -4,13 +4,14 @@ class AppStringsMYR {
   //onbodaring Screens
   static const String skip = 'Skip';
   static const String next = 'Next';
+  static const String back = 'back';
   static const String getStarted = 'Get Started';
   //first
   static const String onBoardingTitleone = 'Manage Your Tasks';
   static const String onBoardingSubTitleone =
       'You could easily manage all of your tasks all from here ';
   //second
-  static const String onBoardingTitletwo = 'Create your daily routine';
+  static const String onBoardingTitletwo = 'Create daily routine';
   static const String onBoardingSubTitletwo =
       'In TODO app you can create your personalized to stay productive';
   //three

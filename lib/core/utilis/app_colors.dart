@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class AppColorsMYR {
-  static Color primaryColor = Color(0xff8685E7);
+  static Color primaryColor = Color(0xff8875FF);
   static Color backgroundColor = Color(0xff121212);
   static Color whiteColor = Color(0xffffffff);
 
